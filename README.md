@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# 👋 Hi there! I'm [이름]
+# 👋 Hi there! I'm [양유나]
 
 ### 💻 AI & Backend Developer
 
