@@ -60,6 +60,11 @@
 `Python` `FastAPI` `OpenAI API` `Firebase`
 
 ---
+### 🏨 Android 호텔 방 예약 애플리케이션
+> Java 및 Android Studio만을 활용하여 개발한 독립형 로컬 호텔 예약 시스템
+- 🏆 **창의오픈소스 경진대회 독행상 수상**
+
+**Tech** `Java` `Android Studio`
 
 ## 🌱 Currently Learning
 
